@@ -1,1 +1,3 @@
 # discoBall
+
+![Screenshot](screenshot.png)
